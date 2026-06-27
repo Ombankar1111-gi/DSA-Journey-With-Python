@@ -7,6 +7,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
