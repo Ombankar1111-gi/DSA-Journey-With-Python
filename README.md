@@ -7,6 +7,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
@@ -19,5 +20,6 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
