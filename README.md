@@ -26,5 +26,6 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
