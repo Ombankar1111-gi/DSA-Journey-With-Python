@@ -13,6 +13,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +29,9 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
