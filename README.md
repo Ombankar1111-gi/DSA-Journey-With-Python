@@ -10,12 +10,14 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0242-valid-anagram) |
 ## Math
@@ -43,10 +45,19 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
