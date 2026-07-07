@@ -60,4 +60,8 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
