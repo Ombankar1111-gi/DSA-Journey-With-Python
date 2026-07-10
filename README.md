@@ -23,6 +23,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0013-roman-to-integer) |
 ## Two Pointers
