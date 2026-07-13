@@ -23,6 +23,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0013-roman-to-integer) |
@@ -66,10 +67,12 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
