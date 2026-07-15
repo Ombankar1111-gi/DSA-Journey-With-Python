@@ -12,6 +12,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0088-merge-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0013-roman-to-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -80,4 +82,8 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
