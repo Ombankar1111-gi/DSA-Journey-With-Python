@@ -17,6 +17,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0217-contains-duplicate) |
@@ -41,6 +42,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -85,5 +87,6 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
