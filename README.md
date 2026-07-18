@@ -11,6 +11,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0027-remove-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
@@ -30,6 +31,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0007-reverse-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0344-reverse-string) |
 ## String
 |  |
