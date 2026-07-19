@@ -14,6 +14,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0189-rotate-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0088-merge-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0344-reverse-string) |
 ## String
 |  |
