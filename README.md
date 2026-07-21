@@ -16,6 +16,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0219-contains-duplicate-ii](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
