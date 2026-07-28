@@ -45,6 +45,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -59,6 +60,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0020-valid-parentheses) |
@@ -121,5 +123,6 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
