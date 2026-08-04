@@ -10,6 +10,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,6 +89,7 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -131,5 +133,6 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
