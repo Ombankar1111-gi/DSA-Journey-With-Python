@@ -141,4 +141,20 @@ A curated repository of Data Structures and Algorithms solutions in Python, focu
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0043-multiply-strings) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
