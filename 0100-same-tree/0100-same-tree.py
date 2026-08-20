@@ -1,10 +1,10 @@
 class Solution:
     def isSameTree(self, p, q):
-        # Donhi empty astil
+        
         if p is None and q is None:
             return True
 
-        # Ek empty ani ek non-empty
+        
         if p is None or q is None:
             return False
 
